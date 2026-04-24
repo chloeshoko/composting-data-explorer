@@ -1,0 +1,356 @@
+[
+  {
+    "borough": "bronx",
+    "communitydistrict": "01",
+    "longitude": -73.8648,
+    "latitude": 40.8448
+  },
+  {
+    "borough": "bronx",
+    "communitydistrict": "02",
+    "longitude": -73.8648,
+    "latitude": 40.8448
+  },
+  {
+    "borough": "bronx",
+    "communitydistrict": "03",
+    "longitude": -73.8648,
+    "latitude": 40.8448
+  },
+  {
+    "borough": "bronx",
+    "communitydistrict": "04",
+    "longitude": -73.8648,
+    "latitude": 40.8448
+  },
+  {
+    "borough": "bronx",
+    "communitydistrict": "05",
+    "longitude": -73.8648,
+    "latitude": 40.8448
+  },
+  {
+    "borough": "bronx",
+    "communitydistrict": "06",
+    "longitude": -73.8648,
+    "latitude": 40.8448
+  },
+  {
+    "borough": "bronx",
+    "communitydistrict": "07",
+    "longitude": -73.8648,
+    "latitude": 40.8448
+  },
+  {
+    "borough": "bronx",
+    "communitydistrict": "08",
+    "longitude": -73.8648,
+    "latitude": 40.8448
+  },
+  {
+    "borough": "bronx",
+    "communitydistrict": "09",
+    "longitude": -73.8648,
+    "latitude": 40.8448
+  },
+  {
+    "borough": "bronx",
+    "communitydistrict": "10",
+    "longitude": -73.8648,
+    "latitude": 40.8448
+  },
+  {
+    "borough": "bronx",
+    "communitydistrict": "11",
+    "longitude": -73.8648,
+    "latitude": 40.8448
+  },
+  {
+    "borough": "bronx",
+    "communitydistrict": "12",
+    "longitude": -73.8648,
+    "latitude": 40.8448
+  },
+  {
+    "borough": "brooklyn",
+    "communitydistrict": "01",
+    "longitude": -73.9442,
+    "latitude": 40.6782
+  },
+  {
+    "borough": "brooklyn",
+    "communitydistrict": "02",
+    "longitude": -73.9442,
+    "latitude": 40.6782
+  },
+  {
+    "borough": "brooklyn",
+    "communitydistrict": "03",
+    "longitude": -73.9442,
+    "latitude": 40.6782
+  },
+  {
+    "borough": "brooklyn",
+    "communitydistrict": "04",
+    "longitude": -73.9442,
+    "latitude": 40.6782
+  },
+  {
+    "borough": "brooklyn",
+    "communitydistrict": "05",
+    "longitude": -73.9442,
+    "latitude": 40.6782
+  },
+  {
+    "borough": "brooklyn",
+    "communitydistrict": "06",
+    "longitude": -73.9442,
+    "latitude": 40.6782
+  },
+  {
+    "borough": "brooklyn",
+    "communitydistrict": "07",
+    "longitude": -73.9442,
+    "latitude": 40.6782
+  },
+  {
+    "borough": "brooklyn",
+    "communitydistrict": "08",
+    "longitude": -73.9442,
+    "latitude": 40.6782
+  },
+  {
+    "borough": "brooklyn",
+    "communitydistrict": "09",
+    "longitude": -73.9442,
+    "latitude": 40.6782
+  },
+  {
+    "borough": "brooklyn",
+    "communitydistrict": "10",
+    "longitude": -73.9442,
+    "latitude": 40.6782
+  },
+  {
+    "borough": "brooklyn",
+    "communitydistrict": "11",
+    "longitude": -73.9442,
+    "latitude": 40.6782
+  },
+  {
+    "borough": "brooklyn",
+    "communitydistrict": "12",
+    "longitude": -73.9442,
+    "latitude": 40.6782
+  },
+  {
+    "borough": "brooklyn",
+    "communitydistrict": "13",
+    "longitude": -73.9442,
+    "latitude": 40.6782
+  },
+  {
+    "borough": "brooklyn",
+    "communitydistrict": "14",
+    "longitude": -73.9442,
+    "latitude": 40.6782
+  },
+  {
+    "borough": "brooklyn",
+    "communitydistrict": "15",
+    "longitude": -73.9442,
+    "latitude": 40.6782
+  },
+  {
+    "borough": "brooklyn",
+    "communitydistrict": "16",
+    "longitude": -73.9442,
+    "latitude": 40.6782
+  },
+  {
+    "borough": "brooklyn",
+    "communitydistrict": "17",
+    "longitude": -73.9442,
+    "latitude": 40.6782
+  },
+  {
+    "borough": "brooklyn",
+    "communitydistrict": "18",
+    "longitude": -73.9442,
+    "latitude": 40.6782
+  },
+  {
+    "borough": "manhattan",
+    "communitydistrict": "01",
+    "longitude": -73.9712,
+    "latitude": 40.7831
+  },
+  {
+    "borough": "manhattan",
+    "communitydistrict": "02",
+    "longitude": -73.9712,
+    "latitude": 40.7831
+  },
+  {
+    "borough": "manhattan",
+    "communitydistrict": "03",
+    "longitude": -73.9712,
+    "latitude": 40.7831
+  },
+  {
+    "borough": "manhattan",
+    "communitydistrict": "04",
+    "longitude": -73.9712,
+    "latitude": 40.7831
+  },
+  {
+    "borough": "manhattan",
+    "communitydistrict": "05",
+    "longitude": -73.9712,
+    "latitude": 40.7831
+  },
+  {
+    "borough": "manhattan",
+    "communitydistrict": "06",
+    "longitude": -73.9712,
+    "latitude": 40.7831
+  },
+  {
+    "borough": "manhattan",
+    "communitydistrict": "07",
+    "longitude": -73.9712,
+    "latitude": 40.7831
+  },
+  {
+    "borough": "manhattan",
+    "communitydistrict": "08",
+    "longitude": -73.9712,
+    "latitude": 40.7831
+  },
+  {
+    "borough": "manhattan",
+    "communitydistrict": "09",
+    "longitude": -73.9712,
+    "latitude": 40.7831
+  },
+  {
+    "borough": "manhattan",
+    "communitydistrict": "10",
+    "longitude": -73.9712,
+    "latitude": 40.7831
+  },
+  {
+    "borough": "manhattan",
+    "communitydistrict": "11",
+    "longitude": -73.9712,
+    "latitude": 40.7831
+  },
+  {
+    "borough": "manhattan",
+    "communitydistrict": "12",
+    "longitude": -73.9712,
+    "latitude": 40.7831
+  },
+  {
+    "borough": "queens",
+    "communitydistrict": "01",
+    "longitude": -73.7949,
+    "latitude": 40.7282
+  },
+  {
+    "borough": "queens",
+    "communitydistrict": "02",
+    "longitude": -73.7949,
+    "latitude": 40.7282
+  },
+  {
+    "borough": "queens",
+    "communitydistrict": "03",
+    "longitude": -73.7949,
+    "latitude": 40.7282
+  },
+  {
+    "borough": "queens",
+    "communitydistrict": "04",
+    "longitude": -73.7949,
+    "latitude": 40.7282
+  },
+  {
+    "borough": "queens",
+    "communitydistrict": "05",
+    "longitude": -73.7949,
+    "latitude": 40.7282
+  },
+  {
+    "borough": "queens",
+    "communitydistrict": "06",
+    "longitude": -73.7949,
+    "latitude": 40.7282
+  },
+  {
+    "borough": "queens",
+    "communitydistrict": "07",
+    "longitude": -73.7949,
+    "latitude": 40.7282
+  },
+  {
+    "borough": "queens",
+    "communitydistrict": "08",
+    "longitude": -73.7949,
+    "latitude": 40.7282
+  },
+  {
+    "borough": "queens",
+    "communitydistrict": "09",
+    "longitude": -73.7949,
+    "latitude": 40.7282
+  },
+  {
+    "borough": "queens",
+    "communitydistrict": "10",
+    "longitude": -73.7949,
+    "latitude": 40.7282
+  },
+  {
+    "borough": "queens",
+    "communitydistrict": "11",
+    "longitude": -73.7949,
+    "latitude": 40.7282
+  },
+  {
+    "borough": "queens",
+    "communitydistrict": "12",
+    "longitude": -73.7949,
+    "latitude": 40.7282
+  },
+  {
+    "borough": "queens",
+    "communitydistrict": "13",
+    "longitude": -73.7949,
+    "latitude": 40.7282
+  },
+  {
+    "borough": "queens",
+    "communitydistrict": "14",
+    "longitude": -73.7949,
+    "latitude": 40.7282
+  },
+  {
+    "borough": "staten island",
+    "communitydistrict": "01",
+    "longitude": -74.1502,
+    "latitude": 40.5795
+  },
+  {
+    "borough": "staten island",
+    "communitydistrict": "02",
+    "longitude": -74.1502,
+    "latitude": 40.5795
+  },
+  {
+    "borough": "staten island",
+    "communitydistrict": "03",
+    "longitude": -74.1502,
+    "latitude": 40.5795
+  }
+]
